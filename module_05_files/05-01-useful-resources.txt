@@ -1,0 +1,5 @@
+
+Links:
+https://docs.python.org/3/library/datetime.html
+https://docs.python.org/3/library/datetime.html?highlight=timedelta#datetime.timedelta
+https://docs.python.org/3/library/timeit.html
